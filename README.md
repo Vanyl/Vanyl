@@ -1,4 +1,10 @@
-### Hi there 👋
+### ✨ Hi everybirdies 🐦✨
+
+🌱 I'm currently learning at BeCode in Brussels
+💻 I'm mostly interested to learn about front-end devlopment but I'm excited about back-end as well ~
+🎮 I'm alwauys curious and open about video games, I even did a game dev formation so I could discover a part of this world
+🍵 I'm a tea lover from morning until the night
+
 
 <!--
 **Vanyl/Vanyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
