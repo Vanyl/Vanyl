@@ -1,9 +1,16 @@
-### ✨ Hi everybirdies 🐦✨
+<h1 align="center"> ✨ Hi everybirdies 🐦✨ </h1>
 
-🌱 I'm currently learning at BeCode in Brussels
-💻 I'm mostly interested to learn about front-end devlopment but I'm excited about back-end as well ~
-🎮 I'm alwauys curious and open about video games, I even did a game dev formation so I could discover a part of this world
+I'm Yavanna (it comes from "The Silmarillion") 🧝‍♀️
+
+🌱 I'm currently learning at BeCode in Brussels <br />
+💻 I'm mostly interested to learn about front-end development but I'm excited about back-end as well ~ <br />
+🎮 I'm always curious and open about video games, I even did a game dev formation so I could discover a part of this world <br />
 🍵 I'm a tea lover from morning until the night
+
+<p align="center">
+  <img src="https://i.redd.it/zye1zw70ybz91.gif" alt="animated" />
+</p>
+
 
 
 <!--
