@@ -8,7 +8,7 @@ I'm Yavanna (it comes from "The Silmarillion") 🧝‍♀️
 🍵 I'm a tea lover from morning until the night
 
 <p align="center">
-  <img src="https://i.redd.it/zye1zw70ybz91.gif" alt="animated" />
+  <img src="https://i.redd.it/zye1zw70ybz91.gif" alt="animated" width="350"/>
 </p>
 
 
