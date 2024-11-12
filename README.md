@@ -2,7 +2,7 @@
 
 I'm Yavanna (it comes from "The Silmarillion") 🧝‍♀️
 
-🌱 I'm currently doing my intership at Glow-up <br />
+🌱 I'm currently looking for an opportunity to start in a company <br />
 ⚡ I'm at the end of my training at BeCode in Brussels <br />
 💻 I'm mostly interested to learn about front-end development but I'm excited about back-end as well ~ <br />
 🎮 I'm always curious and open about video games, I even did a game dev training so I could discover a part of this world <br />
